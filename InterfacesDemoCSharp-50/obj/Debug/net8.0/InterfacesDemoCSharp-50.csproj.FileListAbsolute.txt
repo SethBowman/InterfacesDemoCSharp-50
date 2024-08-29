@@ -1,0 +1,14 @@
+C:\Users\sbowm\OneDrive\Desktop\repos\InterfacesDemoCSharp-50\InterfacesDemoCSharp-50\bin\Debug\net8.0\InterfacesDemoCSharp-50.exe
+C:\Users\sbowm\OneDrive\Desktop\repos\InterfacesDemoCSharp-50\InterfacesDemoCSharp-50\bin\Debug\net8.0\InterfacesDemoCSharp-50.deps.json
+C:\Users\sbowm\OneDrive\Desktop\repos\InterfacesDemoCSharp-50\InterfacesDemoCSharp-50\bin\Debug\net8.0\InterfacesDemoCSharp-50.runtimeconfig.json
+C:\Users\sbowm\OneDrive\Desktop\repos\InterfacesDemoCSharp-50\InterfacesDemoCSharp-50\bin\Debug\net8.0\InterfacesDemoCSharp-50.dll
+C:\Users\sbowm\OneDrive\Desktop\repos\InterfacesDemoCSharp-50\InterfacesDemoCSharp-50\bin\Debug\net8.0\InterfacesDemoCSharp-50.pdb
+C:\Users\sbowm\OneDrive\Desktop\repos\InterfacesDemoCSharp-50\InterfacesDemoCSharp-50\obj\Debug\net8.0\InterfacesDemoCSharp-50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sbowm\OneDrive\Desktop\repos\InterfacesDemoCSharp-50\InterfacesDemoCSharp-50\obj\Debug\net8.0\InterfacesDemoCSharp-50.AssemblyInfoInputs.cache
+C:\Users\sbowm\OneDrive\Desktop\repos\InterfacesDemoCSharp-50\InterfacesDemoCSharp-50\obj\Debug\net8.0\InterfacesDemoCSharp-50.AssemblyInfo.cs
+C:\Users\sbowm\OneDrive\Desktop\repos\InterfacesDemoCSharp-50\InterfacesDemoCSharp-50\obj\Debug\net8.0\InterfacesDemoCSharp-50.csproj.CoreCompileInputs.cache
+C:\Users\sbowm\OneDrive\Desktop\repos\InterfacesDemoCSharp-50\InterfacesDemoCSharp-50\obj\Debug\net8.0\InterfacesDemoCSharp-50.dll
+C:\Users\sbowm\OneDrive\Desktop\repos\InterfacesDemoCSharp-50\InterfacesDemoCSharp-50\obj\Debug\net8.0\refint\InterfacesDemoCSharp-50.dll
+C:\Users\sbowm\OneDrive\Desktop\repos\InterfacesDemoCSharp-50\InterfacesDemoCSharp-50\obj\Debug\net8.0\InterfacesDemoCSharp-50.pdb
+C:\Users\sbowm\OneDrive\Desktop\repos\InterfacesDemoCSharp-50\InterfacesDemoCSharp-50\obj\Debug\net8.0\InterfacesDemoCSharp-50.genruntimeconfig.cache
+C:\Users\sbowm\OneDrive\Desktop\repos\InterfacesDemoCSharp-50\InterfacesDemoCSharp-50\obj\Debug\net8.0\ref\InterfacesDemoCSharp-50.dll
